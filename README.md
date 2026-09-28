@@ -19,23 +19,23 @@ and choose a suitable learning path.
 
 The main goal of this article is to help beginners:
 
-- Understand the fundamentals of computers
-- Discover different computer-related fields
-- Choose a suitable learning path
-- Start learning with a clear direction
-- Avoid confusion when choosing educational resources
+* Understand the fundamentals of computers
+* Discover different computer-related fields
+* Choose a suitable learning path
+* Start learning with a clear direction
+* Avoid confusion when choosing educational resources
 
 ---
 
 ## 👥 Target Audience
 
-- Beginners interested in learning computers
-- Students exploring technology-related fields
-- People looking for a structured learning path
-- Users who do not know where to start in technology
+* Beginners interested in learning computers
+* Students exploring technology-related fields
+* People looking for a structured learning path
+* Users who do not know where to start in technology
 
-**Language:** Persian  
-**Content Type:** Educational Blog Article  
+**Language:** Persian
+**Content Type:** Educational Blog Article
 **Search Intent:** Informational
 
 ---
@@ -55,37 +55,37 @@ and discovering suitable technology fields.
 
 The content strategy focuses on:
 
-- Beginner-friendly explanations
-- Organized learning paths
-- Introduction to technical fields
-- Educational guidance
-- Clear and accessible language
-- Answering common beginner questions
+* Beginner-friendly explanations
+* Organized learning paths
+* Introduction to technical fields
+* Educational guidance
+* Clear and accessible language
+* Answering common beginner questions
 
 ### 3. Main Content Topics
 
 The article may introduce or connect users
 with topics such as:
 
-- Computer Fundamentals
-- Programming
-- Web Development
-- WordPress
-- Networking
-- Cybersecurity
-- SEO
-- Artificial Intelligence
+* Computer Fundamentals
+* Programming
+* Web Development
+* WordPress
+* Networking
+* Cybersecurity
+* SEO
+* Artificial Intelligence
 
 ### 4. Keyword Research
 
 Relevant keywords and search queries
 can be documented based on:
 
-- Actual keyword research
-- Google Search Console data
-- User search intent
-- Search performance
-- Related search terms
+* Actual keyword research
+* Google Search Console data
+* User search intent
+* Search performance
+* Related search terms
 
 > Keyword data should be added only after
 > being verified through reliable research tools.
@@ -97,16 +97,16 @@ can be documented based on:
 The following SEO elements are relevant
 to the article:
 
-- SEO Title
-- Meta Description
-- H1 Heading
-- H2 and H3 Heading Structure
-- Keyword Relevance
-- Internal Linking
-- Content Readability
-- Search Intent Alignment
-- FAQ Opportunities
-- Image Optimization and Alt Text
+* SEO Title
+* Meta Description
+* H1 Heading
+* H2 and H3 Heading Structure
+* Keyword Relevance
+* Internal Linking
+* Content Readability
+* Search Intent Alignment
+* FAQ Opportunities
+* Image Optimization and Alt Text
 
 The implementation of each element
 should be reviewed and documented
@@ -121,13 +121,13 @@ related educational content on the Technopath website.
 
 Potential internal linking topics include:
 
-- Computer Basics
-- Networking
-- Cybersecurity
-- Programming
-- Web Development
-- WordPress
-- SEO and Digital Skills
+* Computer Basics
+* Networking
+* Cybersecurity
+* Programming
+* Web Development
+* WordPress
+* SEO and Digital Skills
 
 Specific links should be added
 after reviewing the website's existing content.
@@ -136,22 +136,34 @@ after reviewing the website's existing content.
 
 ## 📊 SEO Performance
 
-SEO performance metrics can be documented
-using verified Google Search Console data.
+The article's initial organic search performance
+was measured using Google Search Console.
 
-| Metric | Result |
-|---|---|
-| Impressions | To be added |
-| Clicks | To be added |
-| CTR | To be added |
-| Average Position | To be added |
-| Reporting Period | To be added |
+| Metric            |      Result |
+| ----------------- | ----------: |
+| Total Clicks      |           0 |
+| Total Impressions |          14 |
+| Average CTR       |          0% |
+| Average Position  |         9.6 |
+| Reporting Period  | To be added |
 
 **Data Source:** Google Search Console
 
-> Performance data should be updated
-> using the exact article URL and a defined
-> reporting period.
+### 📈 Performance Overview
+
+During the recorded period, the article received:
+
+* **14 organic impressions**
+* **0 organic clicks**
+* **0% average CTR**
+* **9.6 average search position**
+
+These results represent the article's early search performance
+and provide a baseline for future SEO improvements.
+
+Future performance can be compared against this baseline
+to measure changes in search visibility, clicks, CTR,
+and average position.
 
 ---
 
@@ -163,12 +175,12 @@ content and SEO project.
 
 It focuses on:
 
-- Content planning
-- Search intent analysis
-- Beginner-focused education
-- SEO structure
-- Content improvement
-- Performance tracking
+* Content planning
+* Search intent analysis
+* Beginner-focused education
+* SEO structure
+* Content improvement
+* Performance tracking
 
 ---
 
@@ -176,19 +188,21 @@ It focuses on:
 
 Planned improvements may include:
 
-- Adding verified keyword research
-- Documenting the final SEO title and meta description
-- Reviewing internal links
-- Adding Google Search Console performance data
-- Improving the article's FAQ section
-- Monitoring search impressions and clicks
-- Updating content based on user needs and search data
+* Adding verified keyword research
+* Documenting the final SEO title and meta description
+* Reviewing internal links
+* Adding additional Google Search Console performance data
+* Improving the article's FAQ section
+* Monitoring search impressions and clicks
+* Updating content based on user needs and search data
+* Comparing future performance with the initial SEO baseline
 
 ---
 
 ## 🌐 Website
 
 [Technopath](https://technoopath.ir/)
+
 
 ---
 
